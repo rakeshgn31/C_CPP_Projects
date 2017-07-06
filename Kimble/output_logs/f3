@@ -1,0 +1,1513 @@
+/===========================================================
+			   Lets play Kimble		
+/===========================================================
+Player 1 - Start position: 1, Position to enter Finish: 28
+Player 2 - Start position: 8, Position to enter Finish: 7
+Player 3 - Start position: 15, Position to enter Finish: 14
+Player 4 - Start position: 22, Position to enter Finish: 21
+
+----------------------- Game Begins! -----------------------
+Rolling dice to start the game
+Player 1, Die-value 2
+Player 2, Die-value 4
+Player 3, Die-value 2
+Player 4, Die-value 2
+Player 2 starts the game.Players turns sequence: P2  P3  P4  P1
+
+===================== TURN 1 STARTS ===========================
+Player 2 rolled 1. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 3 rolled 4. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 2. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 1 rolled 6. Action: Moved peg 4. HOME --> START
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (1,4,1)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 1 rolled 6. Action: Moved peg from 1 --> 7
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,4,7)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 1 rolled 3. Action: Moved peg from 7 --> 10
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (10,4,10)  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 2 STARTS ===========================
+Player 2 rolled 1. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 3 rolled 3. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 3. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 1 rolled 4. Action: Moved peg from 10 --> 14
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (14,4,14)  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 3 STARTS ===========================
+Player 2 rolled 1. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 3 rolled 3. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 4. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 1 rolled 5. Action: Moved peg from 14 --> 19
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (19,4,19)  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 4 STARTS ===========================
+Player 2 rolled 1. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 3 rolled 5. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 2. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 1 rolled 2. Action: Moved peg from 19 --> 21
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (21,4,21)  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 5 STARTS ===========================
+Player 2 rolled 6. Action: Moved peg 4. HOME --> START
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (8,4,1)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 2 rolled 3. Action: Moved peg from 8 --> 11
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (11,4,4)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 3 rolled 1. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 6. Action: Moved peg 4. HOME --> START
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (22,4,1)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 3. Action: Moved peg from 22 --> 25
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (25,4,4)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 1 rolled 5. Action: Moved peg from 21 --> 26
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (26,4,26)  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 6 STARTS ===========================
+Player 2 rolled 6. Action: Moved peg from 11 --> 17
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (17,4,10)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 2 rolled 5. Action: Moved peg from 17 --> 22
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (22,4,15)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 3 rolled 6. Action: Moved peg 4. HOME --> START
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (15,4,1)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 3 rolled 1. Action: Moved peg from 15 --> 16
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (16,4,2)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 1. Action: Replaced opponent peg at position 26
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (26,4,5)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 1 rolled 2. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 7 STARTS ===========================
+Player 2 rolled 2. Action: Moved peg from 22 --> 24
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (24,4,17)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 3 rolled 1. Action: Moved peg from 16 --> 17
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (17,4,3)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 3. Action: Moved peg from 26 --> 1
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (1,4,8)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 1 rolled 1. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 8 STARTS ===========================
+Player 2 rolled 4. Action: Moved peg from 24 --> 28
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (28,4,21)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 3 rolled 2. Action: Moved peg from 17 --> 19
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (19,4,5)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 2. Action: Moved peg from 1 --> 3
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (3,4,10)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 1 rolled 3. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 9 STARTS ===========================
+Player 2 rolled 2. Action: Moved peg from 28 --> 2
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (2,4,23)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 3 rolled 4. Action: Moved peg from 19 --> 23
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (23,4,9)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 6. Action: Moved peg from 3 --> 9
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (9,4,16)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 6. Action: Moved peg from 9 --> 15
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (15,4,22)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 6. Action: Moved peg from 15 --> 21
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (21,4,28)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 3. Action: Moved peg 4 to finish
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(3,4)  }
+
+Player 1 rolled 5. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 10 STARTS ===========================
+Player 2 rolled 5. Action: Moved peg from 2 --> 7
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,4,28)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 3 rolled 1. Action: Moved peg from 23 --> 24
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (24,4,10)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 4. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(3,4)  }
+
+Player 1 rolled 4. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 4 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 11 STARTS ===========================
+Player 2 rolled 5. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,4,28)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 3 rolled 6. Action: Moved peg from 24 --> 2
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (2,4,16)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 3 rolled 4. Action: Moved peg from 2 --> 6
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (6,4,20)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 2. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(3,4)  }
+
+Player 1 rolled 6. Action: Moved peg 4. HOME --> START
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (1,4,1)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 1 rolled 1. Action: Moved peg from 1 --> 2
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (2,4,2)  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 12 STARTS ===========================
+Player 2 rolled 2. Action: Moved peg 4 to finish
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 3 rolled 3. Action: Moved peg from 6 --> 9
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (9,4,23)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 4. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(3,4)  }
+
+Player 1 rolled 2. Action: Moved peg from 2 --> 4
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (4,4,4)  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 13 STARTS ===========================
+Player 2 rolled 3. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 3 rolled 5. Action: Moved peg from 9 --> 14
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (14,4,28)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 4 rolled 4. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(3,4)  }
+
+Player 1 rolled 3. Action: Moved peg from 4 --> 7
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,4,7)  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 14 STARTS ===========================
+Player 2 rolled 5. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 3 rolled 2. Action: Moved peg 4 to finish
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 5. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(3,4)  }
+
+Player 1 rolled 5. Action: Moved peg from 7 --> 12
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (12,4,12)  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 15 STARTS ===========================
+Player 2 rolled 3. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 3 rolled 1. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 4. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(3,4)  }
+
+Player 1 rolled 4. Action: Moved peg from 12 --> 16
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (16,4,16)  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 16 STARTS ===========================
+Player 2 rolled 6. Action: Moved peg 3. HOME --> START
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (8,3,1)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 2 rolled 4. Action: Moved peg from 8 --> 12
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (12,3,5)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 3 rolled 2. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 6. Action: Moved peg 3. HOME --> START
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (22,3,1)  }
+PEGS at Finish (position,PEGIndex): {(3,4)  }
+
+Player 4 rolled 6. Action: Moved peg from 22 --> 28
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (28,3,7)  }
+PEGS at Finish (position,PEGIndex): {(3,4)  }
+
+Player 4 rolled 6. Action: Moved peg from 28 --> 6
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (6,3,13)  }
+PEGS at Finish (position,PEGIndex): {(3,4)  }
+
+Player 4 rolled 5. Action: Moved peg from 6 --> 11
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (11,3,18)  }
+PEGS at Finish (position,PEGIndex): {(3,4)  }
+
+Player 1 rolled 3. Action: Moved peg from 16 --> 19
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (19,4,19)  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 17 STARTS ===========================
+Player 2 rolled 3. Action: Moved peg from 12 --> 15
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (15,3,8)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 3 rolled 1. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 6. Action: Moved peg from 11 --> 17
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (17,3,24)  }
+PEGS at Finish (position,PEGIndex): {(3,4)  }
+
+Player 4 rolled 5. Action: Moved peg 3 to finish
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 2. Action: Moved peg from 19 --> 21
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (21,4,21)  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 18 STARTS ===========================
+Player 2 rolled 5. Action: Moved peg from 15 --> 20
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (20,3,13)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 3 rolled 3. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 3. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 1. Action: Moved peg from 21 --> 22
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (22,4,22)  }
+PEGS at Finish (position,PEGIndex): { }
+
+
+===================== TURN 19 STARTS ===========================
+Player 2 rolled 6. Action: Moved peg from 20 --> 26
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (26,3,19)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 2 rolled 5. Action: Moved peg from 26 --> 3
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (3,3,24)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 3 rolled 1. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 3. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 6. Action: Moved peg from 22 --> 28
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (28,4,28)  }
+PEGS at Finish (position,PEGIndex): { }
+
+Player 1 rolled 4. Action: Moved peg 4 to finish
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(4,4)  }
+
+
+===================== TURN 20 STARTS ===========================
+Player 2 rolled 5. Action: Moved peg 3 to finish
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4)  }
+
+Player 3 rolled 1. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 6. Action: Moved peg 2. HOME --> START
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (22,2,1)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 4 rolled 1. Action: Moved peg from 22 --> 23
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (23,2,2)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 2. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(4,4)  }
+
+
+===================== TURN 21 STARTS ===========================
+Player 2 rolled 6. Action: Moved peg 2. HOME --> START
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (8,2,1)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4)  }
+
+Player 2 rolled 5. Action: Moved peg from 8 --> 13
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (13,2,6)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4)  }
+
+Player 3 rolled 3. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 3. Action: Moved peg from 23 --> 26
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (26,2,5)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 6. Action: Moved peg 3. HOME --> START
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (1,3,1)  }
+PEGS at Finish (position,PEGIndex): {(4,4)  }
+
+Player 1 rolled 4. Action: Moved peg from 1 --> 5
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (5,3,5)  }
+PEGS at Finish (position,PEGIndex): {(4,4)  }
+
+
+===================== TURN 22 STARTS ===========================
+Player 2 rolled 6. Action: Moved peg from 13 --> 19
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (19,2,12)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4)  }
+
+Player 2 rolled 5. Action: Moved peg from 19 --> 24
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (24,2,17)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4)  }
+
+Player 3 rolled 1. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 2. Action: Moved peg from 26 --> 28
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (28,2,7)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 1. Action: Moved peg from 5 --> 6
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (6,3,6)  }
+PEGS at Finish (position,PEGIndex): {(4,4)  }
+
+
+===================== TURN 23 STARTS ===========================
+Player 2 rolled 4. Action: Replaced opponent peg at position 28
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (28,2,21)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4)  }
+
+Player 3 rolled 2. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 3 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 4. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 6. Action: Moved peg from 6 --> 12
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (12,3,12)  }
+PEGS at Finish (position,PEGIndex): {(4,4)  }
+
+Player 1 rolled 4. Action: Moved peg from 12 --> 16
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (16,3,16)  }
+PEGS at Finish (position,PEGIndex): {(4,4)  }
+
+
+===================== TURN 24 STARTS ===========================
+Player 2 rolled 2. Action: Moved peg from 28 --> 2
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (2,2,23)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4)  }
+
+Player 3 rolled 6. Action: Moved peg 3. HOME --> START
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (15,3,1)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 3 rolled 6. Action: Moved peg from 15 --> 21
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (21,3,7)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 3 rolled 1. Action: Moved peg from 21 --> 22
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (22,3,8)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 5. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 2. Action: Moved peg from 16 --> 18
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (18,3,18)  }
+PEGS at Finish (position,PEGIndex): {(4,4)  }
+
+
+===================== TURN 25 STARTS ===========================
+Player 2 rolled 5. Action: Moved peg from 2 --> 7
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,2,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4)  }
+
+Player 3 rolled 5. Action: Moved peg from 22 --> 27
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (27,3,13)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 1. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 6. Action: Moved peg from 18 --> 24
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (24,3,24)  }
+PEGS at Finish (position,PEGIndex): {(4,4)  }
+
+Player 1 rolled 2. Action: Moved peg from 24 --> 26
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (26,3,26)  }
+PEGS at Finish (position,PEGIndex): {(4,4)  }
+
+
+===================== TURN 26 STARTS ===========================
+Player 2 rolled 6. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,2,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4)  }
+
+Player 2 rolled 5. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,2,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4)  }
+
+Player 3 rolled 2. Action: Moved peg from 27 --> 1
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (1,3,15)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 1. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 4. Action: Moved peg 3 to finish
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 27 STARTS ===========================
+Player 2 rolled 4. Action: Moved peg 2 to finish
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 3. Action: Moved peg from 1 --> 4
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (4,3,18)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 6. Action: Moved peg 2. HOME --> START
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (22,2,1)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 4 rolled 3. Action: Moved peg from 22 --> 25
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (25,2,4)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 5. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 28 STARTS ===========================
+Player 2 rolled 4. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 1. Action: Moved peg from 4 --> 5
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (5,3,19)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 5. Action: Moved peg from 25 --> 2
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (2,2,9)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 5. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 29 STARTS ===========================
+Player 2 rolled 5. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 6. Action: Moved peg from 5 --> 11
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (11,3,25)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 3 rolled 1. Action: Moved peg from 11 --> 12
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (12,3,26)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 2. Action: Moved peg from 2 --> 4
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (4,2,11)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 5. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 30 STARTS ===========================
+Player 2 rolled 4. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 2. Action: Moved peg from 12 --> 14
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (14,3,28)  }
+PEGS at Finish (position,PEGIndex): {(2,4)  }
+
+Player 4 rolled 4. Action: Moved peg from 4 --> 8
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (8,2,15)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 1. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 31 STARTS ===========================
+Player 2 rolled 6. Action: Replaced opponent peg at position 8
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (8,1,1)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 2 rolled 1. Action: Moved peg from 8 --> 9
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (9,1,2)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 3. Action: Moved peg 3 to finish
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 4. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 5. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 32 STARTS ===========================
+Player 2 rolled 1. Action: Moved peg from 9 --> 10
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (10,1,3)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 4. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 6. Action: Moved peg 2. HOME --> START
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (22,2,1)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 4 rolled 6. Action: Moved peg from 22 --> 28
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (28,2,7)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 4 rolled 2. Action: Moved peg from 28 --> 2
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (2,2,9)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 6. Action: Moved peg 2. HOME --> START
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (1,2,1)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+Player 1 rolled 4. Action: Moved peg from 1 --> 5
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (5,2,5)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 33 STARTS ===========================
+Player 2 rolled 4. Action: Moved peg from 10 --> 14
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (14,1,7)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 3. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 5. Action: Moved peg from 2 --> 7
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,2,14)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 3. Action: Moved peg from 5 --> 8
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (8,2,8)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 34 STARTS ===========================
+Player 2 rolled 6. Action: Moved peg from 14 --> 20
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (20,1,13)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 2 rolled 3. Action: Moved peg from 20 --> 23
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (23,1,16)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 4. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 4. Action: Moved peg from 7 --> 11
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (11,2,18)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 1. Action: Moved peg from 8 --> 9
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (9,2,9)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 35 STARTS ===========================
+Player 2 rolled 3. Action: Moved peg from 23 --> 26
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (26,1,19)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 3. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 5. Action: Moved peg from 11 --> 16
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (16,2,23)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 3. Action: Moved peg from 9 --> 12
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (12,2,12)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 36 STARTS ===========================
+Player 2 rolled 2. Action: Moved peg from 26 --> 28
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (28,1,21)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 3. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 4. Action: Moved peg from 16 --> 20
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (20,2,27)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 1 rolled 1. Action: Moved peg from 12 --> 13
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (13,2,13)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 37 STARTS ===========================
+Player 2 rolled 5. Action: Moved peg from 28 --> 5
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (5,1,26)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 2. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 6. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (20,2,27)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4)  }
+
+Player 4 rolled 5. Action: Moved peg 2 to finish
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4) (4,2)  }
+
+Player 1 rolled 4. Action: Moved peg from 13 --> 17
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (17,2,17)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 38 STARTS ===========================
+Player 2 rolled 2. Action: Moved peg from 5 --> 7
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,1,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 1. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 5. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4) (4,2)  }
+
+Player 1 rolled 5. Action: Moved peg from 17 --> 22
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (22,2,22)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 39 STARTS ===========================
+Player 2 rolled 5. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,1,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 2. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 4. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4) (4,2)  }
+
+Player 1 rolled 2. Action: Moved peg from 22 --> 24
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (24,2,24)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 40 STARTS ===========================
+Player 2 rolled 6. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,1,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 2 rolled 1. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,1,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 4. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 2 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 4. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4) (4,2)  }
+
+Player 1 rolled 2. Action: Moved peg from 24 --> 26
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (26,2,26)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 41 STARTS ===========================
+Player 2 rolled 1. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,1,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 6. Action: Moved peg 2. HOME --> START
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (15,2,1)  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 3 rolled 5. Action: Moved peg from 15 --> 20
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (20,2,6)  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 5. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4) (4,2)  }
+
+Player 1 rolled 4. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (26,2,26)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 42 STARTS ===========================
+Player 2 rolled 1. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,1,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 5. Action: Moved peg from 20 --> 25
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (25,2,11)  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 2. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4) (4,2)  }
+
+Player 1 rolled 1. Action: Moved peg from 26 --> 27
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (27,2,27)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 43 STARTS ===========================
+Player 2 rolled 4. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,1,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 3. Action: Moved peg from 25 --> 28
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (28,2,14)  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 2. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4) (4,2)  }
+
+Player 1 rolled 5. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (27,2,27)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 44 STARTS ===========================
+Player 2 rolled 1. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,1,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 4. Action: Moved peg from 28 --> 4
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (4,2,18)  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 4. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4) (4,2)  }
+
+Player 1 rolled 3. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (27,2,27)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 45 STARTS ===========================
+Player 2 rolled 5. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,1,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 5. Action: Moved peg from 4 --> 9
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (9,2,23)  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 1. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4) (4,2)  }
+
+Player 1 rolled 1. Action: Moved peg from 27 --> 28
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (28,2,28)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 46 STARTS ===========================
+Player 2 rolled 1. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,1,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 5. Action: Moved peg from 9 --> 14
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (14,2,28)  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 3. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4) (4,2)  }
+
+Player 1 rolled 5. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (28,2,28)  }
+PEGS at Finish (position,PEGIndex): {(2,3) (4,4)  }
+
+
+===================== TURN 47 STARTS ===========================
+Player 2 rolled 6. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,1,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 2 rolled 2. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,1,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 5. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (14,2,28)  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 2. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4) (4,2)  }
+
+Player 1 rolled 3. Action: Moved peg 2 to finish
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,3) (3,2) (4,4)  }
+
+
+===================== TURN 48 STARTS ===========================
+Player 2 rolled 6. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,1,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 2 rolled 2. 
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (7,1,28)  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (4,2)  }
+
+Player 3 rolled 6. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (14,2,28)  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 3 rolled 3. 
+---------------- PLAYER 3 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): { (14,2,28)  }
+PEGS at Finish (position,PEGIndex): {(2,4) (3,3)  }
+
+Player 4 rolled 4. 
+---------------- PLAYER 4 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (3,4) (4,2)  }
+
+Player 1 rolled 3. 
+---------------- PLAYER 1 STATE ------------------
+PEGS at HOME: { 1 }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(2,3) (3,2) (4,4)  }
+
+
+===================== TURN 49 STARTS ===========================
+Player 2 rolled 3. Action: Moved peg 1 to finish
+---------------- PLAYER 2 STATE ------------------
+PEGS at HOME: { }
+PEGS on TRACK (position,PEGIndex,PosVisitCtr): {  }
+PEGS at Finish (position,PEGIndex): {(1,3) (2,4) (3,1) (4,2)  }
+
+
+HURRAYYY! PLAYER 2 WINS THE GAME
